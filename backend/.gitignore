@@ -1,0 +1,21 @@
+.venv/
+.env
+# Virtual Environment
+myenv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store
