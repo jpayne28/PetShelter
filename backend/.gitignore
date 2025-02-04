@@ -61,8 +61,8 @@ __pycache__/
 *.sw?
 
 #SAM build directory
-backend/.aws-sam/
-backend/samconfig.toml
+.aws-sam/
+samconfig.toml
 
 #ESLint config
 pet-shelter-client/.eslintr.cjs

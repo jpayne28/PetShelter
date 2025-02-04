@@ -69,7 +69,7 @@ backend/.aws-sam/
 backend/samconfig.toml
 
 #ESLint config
-pet-shelter-client/.eslintr.cjs
+.eslintr.cjs
 
 #Script and archives
 setup-app.shelter*.zip
